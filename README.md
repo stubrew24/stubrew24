@@ -50,5 +50,3 @@ Here is where you can find me:
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stubrew24&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Stuart's+GitHub+Stats&show_icons=true" />
