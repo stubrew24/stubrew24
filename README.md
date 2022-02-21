@@ -33,7 +33,6 @@ I'm Stuart, a full stack developer from London!
 
 - I’m a full stack developer at <a href="https://nurole.com/">Nurole</a> - the global platform changing the way organisations hire board-level talent. 
 - I very occasionaly <a href="https://stuartsewell.dev/#blog">blog</a> about new technologies I encounter.
-- I'm currently learning data visualisation with D3.js.
 
 ### How to reach me:
 
