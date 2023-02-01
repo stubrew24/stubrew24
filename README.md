@@ -30,9 +30,9 @@ I'm Stuart, a full stack developer from London!
   <img alt="Css" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="D3" src="https://img.shields.io/badge/d3.js-F9A03C?logo=d3.js&logoColor=white&style=for-the-badge" />
 </p>
-
+<!-- 
 - I’m a full stack developer at <a href="https://nurole.com/">Nurole</a> - the global platform changing the way organisations hire board-level talent. 
-- I very occasionaly <a href="https://stuartsewell.dev/#blog">blog</a> about new technologies I encounter.
+- I very occasionaly <a href="https://stuartsewell.dev/#blog">blog</a> about new technologies I encounter. -->
 
 ### How to reach me:
 
